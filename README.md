@@ -111,6 +111,3 @@ gtkwave alu_4bit_waves.vcd
 
 ---
 
-## Relevance to Nvidia
-
-ALUs are the fundamental building block of every processing core — including Nvidia's CUDA cores and tensor cores inside GPUs. This project demonstrates hardware design and functional verification skills directly applicable to roles in GPU architecture, VLSI design, and hardware verification at Nvidia.
