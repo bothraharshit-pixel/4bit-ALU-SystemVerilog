@@ -89,25 +89,4 @@ gtkwave alu_4bit_waves.vcd
 ========================================================
           All tests completed successfully!
 ========================================================
-```
-
----
-
-## Key Concepts Demonstrated
-
-- **Combinational logic design** using `always_comb`
-- **Arithmetic operations** with carry/borrow handling
-- **Bitwise operations** for logic functions
-- **Shift operations** with flag output
-- **Status flag generation** (zero, carry, negative)
-- **Testbench writing** with task-based output formatting
-- **Waveform dumping** for visual verification
-
----
-
-## Resume Description (use this in your resume)
-
-> Designed and verified a 4-bit ALU in SystemVerilog supporting 8 operations including arithmetic, bitwise, and shift functions. Implemented status flags (carry, zero, negative) and developed an exhaustive testbench with 15+ test vectors. Simulated using ModelSim with waveform analysis.
-
----
 
